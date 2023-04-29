@@ -28,11 +28,11 @@ The goal of this project is to recognize human emotions from audio and video inp
 ***
 
 ## Team Members
-- Mahmoud Abd El Wahab
-- Marwa Adel
-- Amr Kamal
-- Mariam Maher
-- Mohamed Ramadan
+- [Mahmoud Abd ElWahab](https://github.com/mahmoudmohamed22)
+- [Marwa Adel](https://github.com/MarowaAdel28)
+- [Amr Kamal](https://github.com/amrkamalfoad)
+- [Mariam Maher](https://github.com/mariammaher11)
+- [Mohamed Ramadan](https://github.com/moramadan98)
 
 ***
 
