@@ -1,6 +1,6 @@
 # Audio-Visual Emotion Recognition Project
 
-The goal of this project is to recognize human emotions from audio and video inputs, using the SAVEE and RAVDESS datasets. The project consists of three phases: audio, video, and fusion, each using different techniques and models to improve emotion recognition accuracy.
+The goal of this project is to recognize human emotions from audio and video inputs, using the SAVEE and RAVDESS datasets. The project consists of three phases: audio, video, and fusion, each using different techniques and models to improve emotion recognition accuracy. This is our graduation project 2021-2022. This repo contain our final work to check all our work visit this [link.](https://github.com/mahmoudmohamed22/Emotion-Recognition-From-Video-and-Sound)
 
 ***
 ## Technology Used
